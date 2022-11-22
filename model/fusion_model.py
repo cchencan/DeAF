@@ -1,12 +1,4 @@
 # -*- encoding: utf-8 -*-
-"""
-@File    :   fusion_1.py    
-@Contact :   425077099@qq.com
-
-@Modify Time      @Author    @Version    @Description
-------------      -------    --------    -----------
-2022/3/7 9:58   C.Chen     1.0         None
-"""
 import torch
 import torch.nn as nn
 from model.resNet3d import ResNet3dFeature

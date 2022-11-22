@@ -1,12 +1,4 @@
 # -*- encoding: utf-8 -*-
-"""
-@File    :   simsiam.py    
-@Contact :   425077099@qq.com
-
-@Modify Time      @Author    @Version    @Description
-------------      -------    --------    -----------
-2022/4/27 10:59   C.Chen     1.0         None
-"""
 import torch
 import torch.nn.functional as F
 import torch.nn as nn
